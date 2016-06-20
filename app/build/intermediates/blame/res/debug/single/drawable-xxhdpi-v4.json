@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\workspace\\GooglePay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\GooglePay\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\GooglePay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\GooglePay\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
